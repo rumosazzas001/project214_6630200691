@@ -6,7 +6,7 @@
     <transition name="slide-in">
       <div class="contact-frame">
         <div class="icon-section">
-          <img src="@/assets/img/HomePic.png" alt="My Icon" class="contact-icon fade-in" />
+          <img src="@/assets/img/Contact.jpg" alt="My Icon" class="contact-icon fade-in" />
         </div>
         <div class="info-section">
           <p class="contact-info" v-for="(item, index) in contactItems" :key="index" :style="{ animationDelay: `${index * 0.2}s` }">

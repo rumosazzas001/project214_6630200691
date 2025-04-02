@@ -7,7 +7,7 @@
       <div class="frame-container">
         <div class="frame-pic">
           <div class="image-section">
-            <img src="@/assets/img/HomePic.png" alt="Description of image" class="portfolio-image fade-in" />
+            <img src="@/assets/img/About.jpg" alt="Description of image" class="portfolio-image fade-in" />
           </div>
         </div>
         <div class="frame-text">
@@ -219,7 +219,7 @@ h1 {
 
 .portfolio-image {
   width: 100%;
-  max-width: 400px;
+  max-width: 200px;
   height: auto;
   margin: 10px 0;
   border-radius: 10px;
