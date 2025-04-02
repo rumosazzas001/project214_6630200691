@@ -1,0 +1,52 @@
+{
+  "profile": [
+    {
+      "id": "1",
+      "name": "Theerachote Sakaratnatee",
+      "studentId": "6630200691",
+      "major": "ComputerScience",
+      "oldSchool": "WatsongthamSchool"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "email": "theerachote.s@ku.th",
+      "phone": "098-765-4321",
+      "address": "456 ถนนสุขสวัสดิ์ แขวงบางปะกอก เขตราษฎร์บูรณะ กรุงเทพมหานคร 10140"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "1",
+      "code": "CS101",
+      "name": "Introduction to Programming",
+      "credit": 3,
+      "grade": "A",
+      "index": 0
+    },
+    {
+      "id": "2",
+      "code": "CS102",
+      "name": "Data Structures",
+      "credit": 3,
+      "grade": "B+"
+    },
+    {
+      "id": "3",
+      "code": "CS103",
+      "name": "Database Systems",
+      "credit": 3,
+      "grade": "A-",
+      "index": 2
+    },
+    {
+      "id": "4",
+      "code": "CS104",
+      "name": "Web Development",
+      "credit": 3,
+      "grade": "B",
+      "index": 3
+    }
+  ]
+}
